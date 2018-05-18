@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bitcoin Core
+Comment=Connect to the MMChain P2P Network
+Exec=mmchain-qt %u
+Terminal=false
+Type=Application
+Icon=mmchain128
+MimeType=x-scheme-handler/mmchain;
+Categories=Office;Finance;

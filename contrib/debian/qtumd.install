@@ -1,0 +1,2 @@
+usr/local/bin/mmchaind usr/bin
+usr/local/bin/mmchain-cli usr/bin

@@ -1,0 +1,6 @@
+usr/local/bin/mmchain-qt usr/bin
+share/pixmaps/mmchain32.xpm usr/share/pixmaps
+share/pixmaps/mmchain16.xpm usr/share/pixmaps
+share/pixmaps/mmchain128.png usr/share/pixmaps
+debian/mmchain-qt.desktop usr/share/applications
+debian/mmchain-qt.protocol usr/share/kde4/services/
